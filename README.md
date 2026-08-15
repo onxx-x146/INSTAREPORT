@@ -1,4 +1,5 @@
 # INSTAREPORT 🚨🔥
+<img width="540" height="304" alt="29278" src="https://github.com/user-attachments/assets/f899a9e0-ab2f-4c6e-ad68-91bc3a884e94" />
 
 **INSTAREPORT** is an advanced command-line tool designed for simulating the behavior of Instagram's user report system.  
 It allows cybersecurity students, automation testers, and ethical hackers to understand how mass-reporting logic might work from a UI/UX perspective.
@@ -51,6 +52,7 @@ apt update && apt upgrade -y
 ```
 
  📸 Screenshot
+<img width="720" height="708" alt="36843" src="https://github.com/user-attachments/assets/fce35f63-7ad6-4b80-ab9c-de6d92c647fb" />
 
 
 ---
