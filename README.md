@@ -1,6 +1,6 @@
-# INSTA-REPORT 🚨🔥
+# INSTAREPORT 🚨🔥
 
-**INSTA-REPORT** is an advanced command-line tool designed for simulating the behavior of Instagram's user report system.  
+**INSTAREPORT** is an advanced command-line tool designed for simulating the behavior of Instagram's user report system.  
 It allows cybersecurity students, automation testers, and ethical hackers to understand how mass-reporting logic might work from a UI/UX perspective.
 
 > ⚠️ This tool is purely educational and does NOT send real reports to Instagram.  
@@ -38,10 +38,10 @@ apt update && apt upgrade -y
  apt install git 
 ```
 ```bash
- git clone https://github.com/Suman789438/INSTA-REPORT.git
+ git clone https://github.com/onxx-x146/INSTAREPORT.git
 ```
 ```bash
- cd INSTA-REPORT 
+ cd INSTAREPORT
 ```
 ```bash
  chomd +x *
@@ -52,7 +52,6 @@ apt update && apt upgrade -y
 
  📸 Screenshot
 
-![INSTA-REPORT Screenshot](https://github.com/Suman789438/INSTA-REPORT/blob/main/screenshots/IMG_20250715_215721.jpg)
 
 ---
 
